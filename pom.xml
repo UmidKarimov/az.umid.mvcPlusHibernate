@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>az.umid.hibernatePlusMvc Maven Webapp</name>
+  <name>az.umid.hibernatePlusMvc My Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -42,10 +42,10 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>6.1.6.Final</version>
+      <version>5.6.14.Final</version>
       <type>pom</type>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-jdd -->
+    <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
     <dependency>
       <groupId>com.mysql</groupId>
       <artifactId>mysql-connector-j</artifactId>
